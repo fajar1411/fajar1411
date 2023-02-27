@@ -21,3 +21,9 @@
 ![JWT](https://img.shields.io/badge/-JWT-000?&logo=JSON%20web%20tokens)
 ![Mysql](https://img.shields.io/badge/-MySql-000?&logo=Mysql)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+### GitHub Stats
+
+<a href="https://www.github.com/fajar1411"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=fajar1411&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=merko" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=herdiladania&theme=merko&hide_border=true)](https://git.io/streak-stats" /></a>
+
+
