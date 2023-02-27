@@ -9,4 +9,4 @@
 💪🏼 Future Goals: Always learn more and new technologies.
 
 ### Languages 
-### Go ###PHP  ###SQL
+### Go php sql
