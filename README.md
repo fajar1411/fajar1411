@@ -9,4 +9,4 @@
 💪🏼 Future Goals: Always learn more and new technologies.
 
 ### Languages 
-[php]https://camo.githubusercontent.com/bc91faac81a24796981ef528008f5a40d62682cd9dc7e77f0053e65dfe1a17ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3030303f266c6f676f3d506870
+### golang https://camo.githubusercontent.com/efcceb204f0a08bda0f12ec8d4efee37e25b60284617dca637b24300f95de1ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476f2d3030303f266c6f676f3d476f
